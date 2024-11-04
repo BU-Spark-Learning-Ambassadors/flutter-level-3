@@ -1,15 +1,15 @@
-# < SKILL > Level 3
+# Flutter Level 3
 
-In this challenge you will build an app using < skill > that ... to demonstrate your skills in < skill >.
+In this challenge you will build an accessible gameified productivity app using Flutter to demonstrate your knowledge in the SDK.
 
 
 ## Requirements
 
 In order for the project to be considered "completed", it must complete the following requirements:
 
-1. **< Req 1 Name >:** fetches data from an API and renders the results in a table with paging
-2. **< Req 2 Name >:** uses `useState()` and `useEffect()` to manage variable changes and accessing API
-3. **< Req 3 Name >:** hides all API Keys and secrets in a `.env` file and uses a `.gitignore` to prevent all unneccessary files from being added to the GitHub Repository
+1. **<Main purpose>:** create a gamified task manager/productivity app. This can be anything from receiving points when a task is completed, to a leaderboard, to earning rewards. Get creative! 
+2. **< Notifications >:** sends notifications to the user when a task is due soon.
+3. **<Accessibility>:** [research](https://developer.android.com/guide/topics/ui/accessibility/apps) what it means for an app to be "accessible" and utilize Flutter widgets to make this possible.
 
 ## Submission
 
