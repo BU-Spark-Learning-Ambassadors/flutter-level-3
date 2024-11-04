@@ -8,7 +8,7 @@ In this challenge you will build an accessible gameified productivity app using 
 In order for the project to be considered "completed", it must complete the following requirements:
 
 1. **Main purpose:** create a gamified task manager/productivity app. This can be anything from receiving points when a task is completed, to a leaderboard, to earning rewards. Get creative! 
-2. **Notifications :** sends notifications to the user when a task is due soon.
+2. **Notifications:** sends notifications to the user when a task is due soon.
 3. **Accessibility:** [research](https://developer.android.com/guide/topics/ui/accessibility/apps) what it means for an app to be "accessible" and utilize Flutter widgets to make this possible.
 
 ## Submission
