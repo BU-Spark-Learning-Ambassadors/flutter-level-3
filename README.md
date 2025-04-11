@@ -11,11 +11,17 @@ In order for the project to be considered "completed", it must complete the foll
 2. **Notifications:** sends notifications to the user when a task is due soon.
 3. **Accessibility:** [research](https://developer.android.com/guide/topics/ui/accessibility/apps) what it means for an app to be "accessible" and utilize Flutter widgets to make this possible.
 
+## Example
+
+See Kaylin Von Bergen's Project [Gamified Productivity App](https://github.com/adam-godel/our-republic).
+
+
 ## Submission
 
 All code must be submitted as a [PR (pull request)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request#creating-the-pull-request) following the PR template that will autogenerate when a PR is made
 
 It may take Learning Ambassadors up to 1-2 weeks to grade your solution and give any feedback/badges associated with this challenge. However, if it takes longer than 2 weeks, please send an email to sparkttl@bu.edu.
+
 
 ## Contributing
 
