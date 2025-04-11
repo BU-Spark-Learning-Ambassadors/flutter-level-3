@@ -13,7 +13,7 @@ In order for the project to be considered "completed", it must complete the foll
 
 ## Example
 
-See Kaylin Von Bergen's Project [Gamified Productivity App](https://github.com/adam-godel/our-republic).
+See Kaylin Von Bergen's Project [Gamified Productivity App](https://github.com/kaylinvonbergen/gamified-productivity-flutter-app).
 
 
 ## Submission
